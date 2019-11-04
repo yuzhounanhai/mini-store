@@ -1,11 +1,11 @@
-# mini-store
+# rc-mini-store
 
-一个简单封装React Context的工具组件。
+一个简单封装React Context的React工具组件。
 
 ### 基本使用
 
 ```react
-import MiniStore from '...';
+import MiniStore from 'rc-mini-store';
 // ...
 render() {
   return (
